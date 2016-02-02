@@ -1,2 +1,2 @@
 # vellumbook
-Markdown source for book on "Apps in vellem"
+Markdown source for book on "Apps in vellum"
